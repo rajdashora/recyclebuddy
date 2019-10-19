@@ -1,0 +1,16 @@
+{
+  "items":[
+  {
+    "itemID":"soda can",
+    "isRecyclable":"athome"
+  },
+  {
+    "itemID":"batteries",
+    "isRecyclable":"no"
+  },
+  {
+    "itemID":"motor oil",
+    "isRecyclable":"dropoff"
+  }
+  ]
+}
