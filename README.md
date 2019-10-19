@@ -1,2 +1,2 @@
 # recyclebuddy
-[test](https://github.io/rajdashora/recyclebuddy/)
+[test](https://rajdashora.github.io/recyclebuddy/)
