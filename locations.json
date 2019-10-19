@@ -1,0 +1,49 @@
+{
+"locations" : [
+{
+  "locationID":"Madison East",
+  "address":"4602 Sycamore Ave",
+  "city":"Madison"
+},
+{
+  "locationID":"Madison West",
+  "address":"1501 W Badger Rd",
+  "city":"Madison"
+},
+{
+  "locationID":"Madison Yard Waste",
+  "address":"402 South Point Rd",
+  "city":"Madison"
+},
+{
+  "locationID":"Reynolds Urethane Recycling",
+  "address":"2701 Progress Rd",
+  "phone":"608-906-4244",
+  "city":"Madison"
+},
+{
+  "locationID":"Sun Prarie",
+  "address":"1798 South Bird St",
+  "phone":"608-837-3050",
+  "city":"Sun Prarie"
+},
+{
+  "locationID":"Middleton Recycling Center",
+  "address":"7426 Hubbard Ave",
+  "phone":"608-821-8350",
+  "city":"Middleton"
+},
+{
+  "locationID":"The Can Man",
+  "address":"7432 Schneider Rd",
+  "phone":"608-831-2775",
+  "city":"Middleton"
+},
+{
+  "locationID":"Fitchburg Drop Off",
+  "address":"2373 S Fish Hatchery Rd",
+  "phone":" ",
+  "city":"Fitchburg"
+}
+]
+}
