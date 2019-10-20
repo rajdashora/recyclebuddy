@@ -6,7 +6,7 @@
   "city":"Madison",
   "phone":"608-246-4532",
   "accepts": {
-    "type":"cell phones","oil","electronics","yard waste","large items","scrap metal","appliances","styrofoam","cardboard"
+    "type": ["cell phones","oil","electronics","yard waste","large items","scrap metal","appliances","styrofoam","cardboard"]
   }
 },
 {
@@ -15,7 +15,7 @@
   "phone":"608-266-4681",
   "city":"Madison",
     "accepts": {
-    "type":"cell phones","oil","electronics","yard waste","large items","scrap metal","appliances","styrofoam","cardboard"
+    "type": ["cell phones","oil","electronics","yard waste","large items","scrap metal","appliances","styrofoam","cardboard"]
   }
 },
 {
@@ -50,7 +50,7 @@
   "phone":"608-837-3050",
   "city":"Sun Prarie",
   "accepts": {
-    "type":"yard waste","oil","scrap metal","appliances","cardboard"
+    "type": ["yard waste","oil","scrap metal","appliances","cardboard"]
   }
 },
 {
@@ -59,7 +59,7 @@
   "phone":"608-821-8350",
   "city":"Middleton",
   "accepts": {
-    "type":"cell phones","electronics","rbatteries","printer ink","styrofoam","textiles","shows","wood","cardboard","scrap metal","eyeglasses","oil"
+    "type": ["cell phones","electronics","rbatteries","printer ink","styrofoam","textiles","shows","wood","cardboard","scrap metal","eyeglasses","oil"]
   }
 },
 {
@@ -77,7 +77,7 @@
   "phone":" ",
   "city":"Fitchburg",
   "accepts": {
-    "type":"yard waste","scrap metal","cardboard","oil","styrofoam"
+    "type": ["yard waste","scrap metal","cardboard","oil","styrofoam"]
   }
 },
 {
@@ -86,7 +86,7 @@
   "phone":"608-270-4200",
   "city":"Fitchburg",
   "accepts": {
-    "type":"eyeglasses","hearing aids","printer ink","cell phones"
+    "type": ["eyeglasses","hearing aids","printer ink","cell phones"]
   }
 },
 ]
